@@ -1,0 +1,27 @@
+# Jekyll cruft
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.publish/
+
+# R cruft
+.Rproj.user
+.Rhistory
+*.Rproj
+
+# Mac cruft
+.DS_Store
+
+# Python cruft
+.pytest_cache/
+.ipynb_checkpoints
+venv
+.venv
+__pycache__
+*.pyc
+
+# Editor cruft
+.vscode
+.*.swp
+*~
