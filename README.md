@@ -1,4 +1,5 @@
-# Applied Economics Math Review Course, University of Minnesota
+# Applied Economics Math Review Course
+# University of Minnesota
 
 ## Description
 
@@ -16,6 +17,10 @@ Let me know where you struggled so we can improve on those areas.
 This course has been taught for several years. I rely heavily upon consultation with previous instructors and their course material. 
 If you are dis-satisfied with my presentation of the material, feel free to reference their course material which I have made avaliable through this repository. 
 
-Finally, if you do not have a Github account I would strongly recommend (1) creating one for both publicly signalling and personal organization, and (2) adapting your research workflow to utilize Git and Github.
+Finally, if you do not have a Github account I would strongly recommend:
+1. Creating one for both publicly signalling and personal organization, and
+2. Adapting your research workflow to utilize Git and Github.
 
 While I am not the Coding camp instructor, I have experience working in R, Stata, and Python. I use Git and Github in my regular workflow. If you want assistance on coding outside that course, please reach out directly.
+
+If you want your Github feed to notify you of updates to this repository, click the 'Watch' button on this repository. If you want to bookmark this repository for reference later on, click on the 'Star' button for this repository.
