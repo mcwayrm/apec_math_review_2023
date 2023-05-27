@@ -25,3 +25,6 @@ __pycache__
 .vscode
 .*.swp
 *~
+
+# Solutions and In-progress
+problem_sets/test.pdf
