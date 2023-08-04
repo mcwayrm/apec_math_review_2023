@@ -42,7 +42,7 @@ If you want your Github feed to notify you of updates to this repository, click 
 | 10       |    [Optimization 2](/lectures/10_lecture_optimization.pdf)   |   [PS 10](/problem_sets/10_problem_set.pdf)   |    [PS 10 Answers](/problem_sets/10_problem_set_answers.pdf) |
 | 11       |    [Probability](/lectures/11_lecture_probability.pdf)   |   [PS 11](/problem_sets/11_problem_set.pdf)   |    [PS 11 Answers](/problem_sets/11_problem_set_answers.pdf) |
 | 12       |    [Statistics](/lectures/12_lecture_statistics.pdf)   |   [PS 12](/problem_sets/12_problem_set.pdf)   |    [PS 12 Answers](/problem_sets/12_problem_set_answers.pdf) |
-| 13       |    [Dynamic Programming](/lectures/13_lecture_dynamic_programming.pdf)   |   [PS 13](/problem_sets/13_problem_set.pdf)   |    [PS 13 Answers](/problem_sets/13_problem_set_answers.pdf) |
+| 13       |    [Time Series & Dynamic Programming](/lectures/13_lecture_time_series_&_dynamic_programming.pdf)   |   [PS 13](/problem_sets/13_problem_set.pdf)   |    [PS 13 Answers](/problem_sets/13_problem_set_answers.pdf) |
 | 14       |    [Ancillary Material](/lectures/14_lecture_ancillary_material.pdf)   |   -----  |   ----- |
 | 15       |    [Coursework Preview and Review](/lectures/15_lecture_preview_&_review.pdf)   |   -----   |    ----- |
 
