@@ -22,7 +22,7 @@ Finally, if you do not have a Github account I would strongly recommend:
 1. Creating one for both publicly signaling and personal organization, and
 2. Adapting your research workflow to utilize Git and Github.
 
-While I am not the Coding camp instructor, I have experience working in R, Stata, and Python. I use Git and Github in my regular workflow. If you want assistance on coding outside that course, please reach out directly.
+While I am not the Coding camp instructor, I have experience working in R, Stata, and Python. I use Git and Github in my regular workflow. If you want assistance on coding outside that course, please reach out directly. The R Coding review instructor will be Lifeng Ren, and his course material can be found [here](https://github.com/lfr00154/R-review2023).
 
 If you want your Github feed to notify you of updates to this repository, click the 'Watch' button on this repository. If you want to bookmark this repository for reference later on, click on the 'Star' button for this repository.
 
