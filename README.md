@@ -30,15 +30,15 @@ If you want your Github feed to notify you of updates to this repository, click 
 
 |       | **Lecture** | **Problem Set** | **Solutions** | 
 | :---        |    :----:   |   :----:   |    ---: |
-| 1       |    [Logic and Proofs](/lectures/01_lecture_logic_&_proofs.pdf)   |   [PS 1](/problem_sets/01_problem_set.pdf)   |    [PS 1 Solutions](/problem_sets/01_problem_set_solutions.pdf) |
-| 2       |    [Sets and Topology](/lectures/02_lecture_sets_&_topology.pdf)   |   [PS 2](/problem_sets/02_problem_set.pdf)   |    [PS 2 Solutions](/problem_sets/02_problem_set_solutions.pdf) |
-| 3       |    [Derivatives](/lectures/03_lecture_derivatives.pdf)   |   [PS 3](/problem_sets/03_problem_set.pdf)   |    [PS 3 Solutions](/problem_sets/03_problem_set_solutions.pdf) |
-| 4       |    [Integration](/lectures/04_lecture_integration.pdf)   |   [PS 4](/problem_sets/04_problem_set.pdf)   |    [PS 4 Solutions](/problem_sets/04_problem_set_solutions.pdf) |
-| 5       |    [Multi-variate Calculus](/lectures/05_lecture_mutlivariate_calculus.pdf)   |   [PS 5](/problem_sets/05_problem_set.pdf)   |    [PS 5 Solutions](/problem_sets/05_problem_set_solutions.pdf) |
-| 6       |    [Functions](/lectures/06_lecture_funcitons.pdf)   |   [PS 6](/problem_sets/06_problem_set.pdf)   |    [PS 6 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
-| 7       |    [Matricies](/lectures/07_lecture_matricies.pdf)   |   [PS 7](/problem_sets/07_problem_set.pdf)   |    [PS 7 Solutions](/problem_sets/07_problem_set_solutions.pdf) |
-| 8       |    [Linear Algebra](/lectures/08_lecture_linear_algebra.pdf)   |  [PS 8](/problem_sets/08_problem_set.pdf)   |    [PS 8 Solutions](/problem_sets/08_problem_set_solutions.pdf) |
-| 9       |    [Optimization 1](/lectures/09_lecture_optimization.pdf)   |   [PS 9](/problem_sets/09_problem_set.pdf)   |    [PS 9 Solutions](/problem_sets/09_problem_set_solutions.pdf) |
+| 1       |    [Logic and Proofs](/lectures/01_lecture_logic_&_proofs.pdf)   |   [PS 01](/problem_sets/01_problem_set.pdf)   |    [PS 01 Solutions](/problem_sets/01_problem_set_solutions.pdf) |
+| 2       |    [Sets and Topology](/lectures/02_lecture_sets_&_topology.pdf)   |   [PS 02](/problem_sets/02_problem_set.pdf)   |    [PS 02 Solutions](/problem_sets/02_problem_set_solutions.pdf) |
+| 3       |    [Derivatives](/lectures/03_lecture_derivatives.pdf)   |   [PS 03](/problem_sets/03_problem_set.pdf)   |    [PS 03 Solutions](/problem_sets/03_problem_set_solutions.pdf) |
+| 4       |    [Integration](/lectures/04_lecture_integration.pdf)   |   [PS 04](/problem_sets/04_problem_set.pdf)   |    [PS 04 Solutions](/problem_sets/04_problem_set_solutions.pdf) |
+| 5       |    [Multi-variate Calculus](/lectures/05_lecture_mutlivariate_calculus.pdf)   |   [PS 05](/problem_sets/05_problem_set.pdf)   |    [PS 05 Solutions](/problem_sets/05_problem_set_solutions.pdf) |
+| 6       |    [Matricies](/lectures/07_lecture_matricies.pdf)   |   [PS 06](/problem_sets/06_problem_set.pdf)   |    [PS 06 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
+| 7       |    [Linear Algebra](/lectures/08_lecture_linear_algebra.pdf)   |  [PS 07](/problem_sets/07_problem_set.pdf)   |    [PS 07 Solutions](/problem_sets/07_problem_set_solutions.pdf) |
+| 8       |    [Functions](/lectures/08_lecture_funcitons.pdf)   |   [PS 08](/problem_sets/08_problem_set.pdf)   |    [PS 08 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
+| 9       |    [Optimization 1](/lectures/09_lecture_optimization.pdf)   |   [PS 09](/problem_sets/09_problem_set.pdf)   |    [PS 09 Solutions](/problem_sets/09_problem_set_solutions.pdf) |
 | 10       |    [Optimization 2](/lectures/10_lecture_optimization.pdf)   |   [PS 10](/problem_sets/10_problem_set.pdf)   |    [PS 10 Solutions](/problem_sets/10_problem_set_solutions.pdf) |
 | 11       |    [Probability](/lectures/11_lecture_probability.pdf)   |   [PS 11](/problem_sets/11_problem_set.pdf)   |    [PS 11 Solutions](/problem_sets/11_problem_set_solutions.pdf) |
 | 12       |    [Statistics](/lectures/12_lecture_statistics.pdf)   |   [PS 12](/problem_sets/12_problem_set.pdf)   |    [PS 12 Solutions](/problem_sets/12_problem_set_solutions.pdf) |
