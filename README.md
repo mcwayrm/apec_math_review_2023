@@ -34,15 +34,15 @@ If you want your Github feed to notify you of updates to this repository, click 
 | 2       |    [Sets and Topology](/lectures/02_lecture_sets_&_topology.pdf)   |   [PS 02](/problem_sets/02_problem_set.pdf)   |    [PS 02 Solutions](/problem_sets/02_problem_set_solutions.pdf) |
 | 3       |    [Derivatives](/lectures/03_lecture_derivatives.pdf)   |   [PS 03](/problem_sets/03_problem_set.pdf)   |    [PS 03 Solutions](/problem_sets/03_problem_set_solutions.pdf) |
 | 4       |    [Integration](/lectures/04_lecture_integration.pdf)   |   [PS 04](/problem_sets/04_problem_set.pdf)   |    [PS 04 Solutions](/problem_sets/04_problem_set_solutions.pdf) |
-| 5       |    [Multi-variate Calculus](/lectures/05_lecture_mutlivariate_calculus.pdf)   |   [PS 05](/problem_sets/05_problem_set.pdf)   |    [PS 05 Solutions](/problem_sets/05_problem_set_solutions.pdf) |
-| 6       |    [Matricies](/lectures/07_lecture_matricies.pdf)   |   [PS 06](/problem_sets/06_problem_set.pdf)   |    [PS 06 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
-| 7       |    [Linear Algebra](/lectures/08_lecture_linear_algebra.pdf)   |  [PS 07](/problem_sets/07_problem_set.pdf)   |    [PS 07 Solutions](/problem_sets/07_problem_set_solutions.pdf) |
-| 8       |    [Functions](/lectures/08_lecture_funcitons.pdf)   |   [PS 08](/problem_sets/08_problem_set.pdf)   |    [PS 08 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
+| 5       |    [Multi-variate Calculus](/lectures/05_lecture_multivariate_calculus.pdf)   |   [PS 05](/problem_sets/05_problem_set.pdf)   |    [PS 05 Solutions](/problem_sets/05_problem_set_solutions.pdf) |
+| 6       |    [Matricies](/lectures/06_lecture_matrices.pdf)   |   [PS 06](/problem_sets/06_problem_set.pdf)   |    [PS 06 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
+| 7       |    [Linear Algebra](/lectures/07_lecture_linear_algebra.pdf)   |  [PS 07](/problem_sets/07_problem_set.pdf)   |    [PS 07 Solutions](/problem_sets/07_problem_set_solutions.pdf) |
+| 8       |    [Numbers & Functions](/lectures/08_lecture_numbers_&_functions.pdf)   |   [PS 08](/problem_sets/08_problem_set.pdf)   |    [PS 08 Solutions](/problem_sets/06_problem_set_solutions.pdf) |
 | 9       |    [Optimization 1](/lectures/09_lecture_optimization.pdf)   |   [PS 09](/problem_sets/09_problem_set.pdf)   |    [PS 09 Solutions](/problem_sets/09_problem_set_solutions.pdf) |
 | 10       |    [Optimization 2](/lectures/10_lecture_optimization.pdf)   |   [PS 10](/problem_sets/10_problem_set.pdf)   |    [PS 10 Solutions](/problem_sets/10_problem_set_solutions.pdf) |
 | 11       |    [Probability](/lectures/11_lecture_probability.pdf)   |   [PS 11](/problem_sets/11_problem_set.pdf)   |    [PS 11 Solutions](/problem_sets/11_problem_set_solutions.pdf) |
 | 12       |    [Statistics](/lectures/12_lecture_statistics.pdf)   |    -----   |   -----  |
 | 13       |    [Time Series & Dynamic Programming](/lectures/13_lecture_time_series_&_dynamic_programming.pdf)   |   -----   |    ----- |
 | 14       |    [Ancillary Material](/lectures/14_lecture_ancillary_material.pdf)   |   -----  |   ----- |
-| 15       |    [Coursework Preview and Review](/lectures/15_lecture_preview_&_review.pdf)   |   -----   |    ----- |
+| 15       |    [Coursework Preview and Review](/lectures/15_lecture_review_&_preview.pdf)   |   -----   |    ----- |
 
